@@ -1,0 +1,39 @@
+.card{
+    box-shadow: 0 4px 8px 0 rgba(red, green, blue, alpha);
+    transition: 0.4s;
+    max-width: 400px;
+    background-image: url(../layer2.jpg);
+    background-size: 143%;
+    background-repeat: no-repeat;
+}
+.img{
+    max-width: 3500px;
+    max-height: 250px;
+    padding: 20px 10px;
+    border-radius: 50%;
+}
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgba(red, green, blue, alpha);
+}
+
+.container{
+    padding: 20px 20px 20px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    word-spacing: 5px;
+    font-style:italic
+}
+.article{
+    text-align: center;
+}
+.div{
+    text-align: right;
+}
+.blockquote{
+    margin-left: 55%;
+    margin-right: 55%;
+    margin-top: 25%;
+    margin-bottom: 25%;
+}
+.a{
+    color:goldenrod
+}
